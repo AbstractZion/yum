@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(#c6e1f1 0%, #8fbdd3 100%);
+    color: rgb(91, 119, 185);
+}
+
+.heading{
+    width: 80%;
+    font-size: 21px;
+}
+
+.fam_name,#result_fn,#resultFN_accuracy{
+    color:rgb(255, 255, 255)
+}
+
+#camera{
+    border: 2px dashed rgba(227, 233, 253, 0.876);
+    width: 450px;
+    height: 400px;
+}
